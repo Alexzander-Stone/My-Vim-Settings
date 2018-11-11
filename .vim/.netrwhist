@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/alexzas/101/practice/Chapter3'
+let g:netrw_dirhist_2='/home/alexzas/101/lecture/Homework/ExtraCredit/ArrayHW'
+let g:netrw_dirhist_3='/home/alexzas/1021Lab/lab10'
+let g:netrw_dirhist_4='/home/alexzas/416/Project2/4160assets-2018/examples/sdl/drawing/shapes/circle'
+let g:netrw_dirhist_5='/home/alexzas/.vim'
+let g:netrw_dirhist_6='/home/alexzas/416/Project3/Modifying-Tracker-Framework/assets'
+let g:netrw_dirhist_7='/home/alexzas/.vim/colors'
+let g:netrw_dirhist_8='/home/alexzas/.vim/colors/vim-colors-solarized-master'
+let g:netrw_dirhist_9='/home/alexzas/416/Doom/xmlSpec'
